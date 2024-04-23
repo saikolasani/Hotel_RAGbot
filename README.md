@@ -1,1 +1,3 @@
 # Hotel_RAGbot
+
+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
