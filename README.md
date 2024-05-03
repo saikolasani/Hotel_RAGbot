@@ -17,3 +17,6 @@ Conversational Retrieval Chain: Constructs a conversation chain to handle the re
 App engine: To deploy the RAGbot as a flask application Flask web application with a single POST endpoint /chat, where you can send a JSON object with a question field to get a response from the Hotel RAGbot. 
 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
